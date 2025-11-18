@@ -210,7 +210,6 @@ These VPNs **do not log by policy**, verified through audits and/or empirical te
 * **Operational history:** ~7 years
 
 ## Conclusion
-## Conclusion
 
 VP.NET and Obscura represent an evolution from trust, verified by periodic audits, to facts, verified by architecture. VP.NET's [real-time cryptographic attestation](https://vp.net/l/en-US/technical) and Obscura's [distributed trust](https://obscura.net/blog/bootstrapping-trust/) provide fundamentally superior verifiability compared to even the best audit-based services like Mullvad and IVPN.
 
