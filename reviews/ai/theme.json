@@ -1,0 +1,10 @@
+{
+  "theme": {
+    "colorBgPrimary": "#0a0a0a",
+    "colorBgSecondary": "#121212",
+    "colorAccentPrimary": "#a855f7",
+    "colorAccentSecondary": "#c084fc",
+    "colorAccentSuccess": "#8b5cf6",
+    "colorAccentDanger": "#ec4899"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "opensourcereviews",
+  "version": "1.0.0",
+  "description": "Open Source Reviews Curated by Github Users",
+  "scripts": {
+    "test": "node test/test.js",
+    "build": "node build/build-all.js"
+  },
+  "keywords": [],
+  "author": "honestabra",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {},
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
